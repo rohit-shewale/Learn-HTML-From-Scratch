@@ -1,4 +1,4 @@
-#Learn-HTML-From-Scratch
+# Learn-HTML-From-Scratch
 # Welcome to the HTML Learning Repository!
 
 This repository is designed to help you get started with HTML, the building blocks of the web.
@@ -18,7 +18,6 @@ HTML (HyperText Markup Language) is the standard markup language for creating we
 1. Install a text editor like:
    - Visual Studio Code
    - Sublime Text
-   - Atom
 2. You don't need any special software to write HTML; a plain text editor will suffice.
 
 ### Learn the Basics:
